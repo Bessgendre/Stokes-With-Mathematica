@@ -1,2 +1,2 @@
 # Stokes-With-Mathematica
-Stokes prediction and algorithm optimization with Mathematica
+Stokes prediction and C algorithm optimization with Mathematica
